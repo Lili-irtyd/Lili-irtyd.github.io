@@ -12,7 +12,7 @@ github_repo: "https://github.com/Lili-irtyd/Lili-irtyd.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "I'm rooted but I flow"
-sidebar-avatar: /img/keion长图1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/keion头像1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
