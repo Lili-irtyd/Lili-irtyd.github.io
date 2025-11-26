@@ -1,7 +1,7 @@
 # Site settings
 title: BY Blog
 SEOTitle: 芷芊的博客 | BY Blog
-header-img: img/.jpg
+header-img: img/keion长图1.jpg
 email: zhiqianjiang96@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 芷芊的博客, jiangzhiqian, 蒋芷芊, iOS, Apple, iPhone"
@@ -11,8 +11,8 @@ github_repo: "https://github.com/Lili-irtyd/Lili-irtyd.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "I'm rooted but I flow"
+sidebar-avatar: /img/img/keion头像1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
